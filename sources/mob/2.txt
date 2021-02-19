@@ -1,0 +1,16 @@
+2
+0
+0
+3
+500
+
+
+
+
+
+line 1--- chose IA 0-> simply track when in range 1-> evitate bombs when in range 2->evitate bombs when out of range 3->always evitate bombs
+line 2--- is mob in box?  1-> yes 0 -> no
+line 3--- range of detection
+line 4--- number of lifes
+line 5--- cooldown between each move in ms
+line 6--- blank to separe each monster
